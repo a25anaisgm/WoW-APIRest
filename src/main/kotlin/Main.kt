@@ -26,7 +26,8 @@ fun main() {
     println("1) Por ESTADO (VIVO / FALLECIDO / DESAPARECIDO)")
     println("2) Por FACCIÓN (HORDA / ALIANZA / NEUTRAL)")
     println("3) Por RAZA (ej: HUMANO, ORCO, ELFO...)")
-    print("Opción (1-3): ")
+    println("4) Por ALINEACIÓN (HEROE / VILLANO / REDIMIDO)")
+    print("Opción (1-4): ")
 
     val opcion = readLine()?.trim()
 
@@ -48,6 +49,12 @@ fun main() {
             print("Escribe la RAZA: ")
             val raza = readLine()?.trim()?.uppercase()
             personajes.filter { it.raza.contains(raza ?: "") }
+        }
+
+        "4" -> {
+            print("Escribe la ALINEACIÓN: ")
+            val alineacion = readLine()?.trim()?.uppercase()
+            personajes.filter { it.alineacion == alineacion }
         }
 
         else -> emptyList()
