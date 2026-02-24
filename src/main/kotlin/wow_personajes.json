@@ -21,5 +21,5 @@
   { "id": 17, "nombre": "Turalyon", "raza": "HUMANO", "clase": "PALADÍN", "faccion": "ALIANZA", "titulo": "Alto Exarca", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 18, "nombre": "Alleria Brisaveloz", "raza": "ELFO", "clase": "FORESTAL", "faccion": "ALIANZA", "titulo": "Ranger del Vacío", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 19, "nombre": "Lor'themar Theron", "raza": "ELFO", "clase": "FORESTAL", "faccion": "HORDA", "titulo": "Lord Regente de Quel'Thalas", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 20, "nombre": "Kael'thas Caminante del Sol", "raza": "ELFO DE SANGRE", "clase": "MAGO", "faccion": "HORDA", "titulo": "Príncipe de Quel'Thalas", "estado": "FALLECIDO", "alineacion": "VILLANO" }
+  { "id": 20, "nombre": "Kael'thas Caminante del Sol", "raza": "ELFO", "clase": "MAGO", "faccion": "HORDA", "titulo": "Príncipe de Quel'Thalas", "estado": "FALLECIDO", "alineacion": "VILLANO" }
 ]
