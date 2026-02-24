@@ -1,25 +1,25 @@
 [
   { "id": 1, "nombre": "Thrall", "raza": "ORCO", "clase": "CHAMAN", "faccion": "HORDA", "titulo": "Ex Jefe de Guerra de la Horda", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 2, "nombre": "Jaina Valiente", "raza": "HUMANO", "clase": "MAGA", "faccion": "ALIANZA", "titulo": "Miembro del Kirin Tor", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 3, "nombre": "Sylvanas Brisaveloz", "raza": "ELFO DE SANGRE (NO-MUERTO)", "clase": "FORESTAL OSCURA", "faccion": "HORDA", "titulo": "Ex Jefa de Guerra", "estado": "DESAPARECIDO", "alineacion": "REDIMIDO" },
+  { "id": 3, "nombre": "Sylvanas Brisaveloz", "raza": "ELFO", "clase": "FORESTAL OSCURA", "faccion": "HORDA", "titulo": "Ex Jefa de Guerra", "estado": "DESAPARECIDO", "alineacion": "REDIMIDO" },
   { "id": 4, "nombre": "Anduin Wrynn", "raza": "HUMANO", "clase": "SACERDOTE", "faccion": "ALIANZA", "titulo": "Rey de Ventormenta", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 5, "nombre": "Varian Wrynn", "raza": "HUMANO", "clase": "GUERRERO", "faccion": "ALIANZA", "titulo": "Rey de Ventormenta", "estado": "FALLECIDO", "alineacion": "HEROE" },
 
-  { "id": 6, "nombre": "Illidan Tempestira", "raza": "ELFO DE LA NOCHE", "clase": "CAZADOR DE DEMONIOS", "faccion": "NEUTRAL", "titulo": "El Traidor", "estado": "VIVO", "alineacion": "REDIMIDO" },
-  { "id": 7, "nombre": "Malfurion Tempestira", "raza": "ELFO DE LA NOCHE", "clase": "DRUIDA", "faccion": "ALIANZA", "titulo": "Archidruida", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 8, "nombre": "Tyrande Susurravientos", "raza": "ELFO DE LA NOCHE", "clase": "SACERDOTISA", "faccion": "ALIANZA", "titulo": "Suma Sacerdotisa de Elune", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 9, "nombre": "Arthas Menethil", "raza": "HUMANO (NO-MUERTO)", "clase": "CABALLERO DE LA MUERTE", "faccion": "NEUTRAL", "titulo": "Rey Exanime", "estado": "FALLECIDO", "alineacion": "VILLANO" },
-  { "id": 10, "nombre": "Uther el Iluminado", "raza": "HUMANO", "clase": "PALADIN", "faccion": "ALIANZA", "titulo": "Miembro de la Mano de Plata", "estado": "FALLECIDO", "alineacion": "HEROE" },
+  { "id": 6, "nombre": "Illidan Tempestira", "raza": "ELFO", "clase": "CAZADOR DE DEMONIOS", "faccion": "NEUTRAL", "titulo": "El Traidor", "estado": "VIVO", "alineacion": "REDIMIDO" },
+  { "id": 7, "nombre": "Malfurion Tempestira", "raza": "ELFO", "clase": "DRUIDA", "faccion": "ALIANZA", "titulo": "Archidruida", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 8, "nombre": "Tyrande Susurravientos", "raza": "ELFO", "clase": "SACERDOTISA", "faccion": "ALIANZA", "titulo": "Suma Sacerdotisa", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 9, "nombre": "Arthas Menethil", "raza": "HUMANO", "clase": "CABALLERO DE LA MUERTE", "faccion": "NEUTRAL", "titulo": "Rey Exánime", "estado": "FALLECIDO", "alineacion": "VILLANO" },
 
-  { "id": 11, "nombre": "Genn Cringris", "raza": "HUMANO (HUARGEN)", "clase": "GUERRERO", "faccion": "ALIANZA", "titulo": "Rey de Gilneas", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 12, "nombre": "Baine Pezuña de Sangre", "raza": "TAUREN", "clase": "GUERRERO", "faccion": "HORDA", "titulo": "Alto Jefe de los Tauren", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 13, "nombre": "Lor'themar Theron", "raza": "ELFO DE SANGRE", "clase": "FORESTAL", "faccion": "HORDA", "titulo": "Lord Regente de Quel'Thalas", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 10, "nombre": "Genn Cringris", "raza": "HUMANO", "clase": "GUERRERO", "faccion": "ALIANZA", "titulo": "Rey de Gilneas", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 11, "nombre": "Baine Pezuña de Sangre", "raza": "TAUREN", "clase": "GUERRERO", "faccion": "HORDA", "titulo": "Alto Jefe de los Tauren", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 12, "nombre": "Vol'jin", "raza": "TROL", "clase": "CAZADOR", "faccion": "HORDA", "titulo": "Ex Jefe de Guerra", "estado": "FALLECIDO", "alineacion": "HEROE" },
+  { "id": 13, "nombre": "Rexxar", "raza": "MOK'NATHAL", "clase": "CAZADOR", "faccion": "HORDA", "titulo": "Campeón de la Horda", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 14, "nombre": "Khadgar", "raza": "HUMANO", "clase": "MAGO", "faccion": "NEUTRAL", "titulo": "Archimago del Kirin Tor", "estado": "VIVO", "alineacion": "HEROE" },
   { "id": 15, "nombre": "Gul'dan", "raza": "ORCO", "clase": "BRUJO", "faccion": "HORDA", "titulo": "Fundador del Consejo de la Sombra", "estado": "FALLECIDO", "alineacion": "VILLANO" },
 
-  { "id": 16, "nombre": "Vol'jin", "raza": "TROL", "clase": "CAZADOR", "faccion": "HORDA", "titulo": "Ex Jefe de Guerra", "estado": "FALLECIDO", "alineacion": "HEROE" },
-  { "id": 17, "nombre": "Rexxar", "raza": "MOK'NATHAL", "clase": "CAZADOR", "faccion": "HORDA", "titulo": "Campeon de la Horda", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 18, "nombre": "Valeera Sanguinar", "raza": "ELFO DE SANGRE", "clase": "PICARA", "faccion": "NEUTRAL", "titulo": "Agente de la Corona", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 19, "nombre": "Turalyon", "raza": "HUMANO", "clase": "PALADIN", "faccion": "ALIANZA", "titulo": "Alto Exarca", "estado": "VIVO", "alineacion": "HEROE" },
-  { "id": 20, "nombre": "Alleria Brisaveloz", "raza": "ELFO DEL VACIO", "clase": "FORESTAL", "faccion": "ALIANZA", "titulo": "Ranger del Vacio", "estado": "VIVO", "alineacion": "HEROE" }
+  { "id": 16, "nombre": "Valeera Sanguinar", "raza": "ELFO", "clase": "PÍCARA", "faccion": "NEUTRAL", "titulo": "Agente de la Corona", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 17, "nombre": "Turalyon", "raza": "HUMANO", "clase": "PALADÍN", "faccion": "ALIANZA", "titulo": "Alto Exarca", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 18, "nombre": "Alleria Brisaveloz", "raza": "ELFO", "clase": "FORESTAL", "faccion": "ALIANZA", "titulo": "Ranger del Vacío", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 19, "nombre": "Lor'themar Theron", "raza": "ELFO", "clase": "FORESTAL", "faccion": "HORDA", "titulo": "Lord Regente de Quel'Thalas", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 20, "nombre": "Anduin Lothar", "raza": "HUMANO", "clase": "GUERRERO", "faccion": "ALIANZA", "titulo": "Campeón de la Alianza", "estado": "FALLECIDO", "alineacion": "HEROE" }
 ]

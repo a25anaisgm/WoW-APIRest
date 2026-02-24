@@ -25,7 +25,7 @@ fun main() {
     println("\n¿Qué quieres buscar?")
     println("1) Por ESTADO (VIVO / FALLECIDO / DESAPARECIDO)")
     println("2) Por FACCIÓN (HORDA / ALIANZA / NEUTRAL)")
-    println("3) Por RAZA (ej: HUMANO, ORCO, ELFO DE SANGRE...)")
+    println("3) Por RAZA (ej: HUMANO, ORCO, ELFO...)")
     print("Opción (1-3): ")
 
     val opcion = readLine()?.trim()
