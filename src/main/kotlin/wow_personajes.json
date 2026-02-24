@@ -1,0 +1,37 @@
+[
+  { "id": 1, "nombre": "Thrall", "raza": "Orco", "clase": "Chaman", "faccion": "Horda", "titulo": "Ex Jefe de Guerra de la Horda", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 2, "nombre": "Jaina Valiente", "raza": "Humana", "clase": "Maga", "faccion": "Alianza", "titulo": "Miembro del Kirin Tor", "estado": "VIVA", "alineacion": "HEROE" },
+  { "id": 3, "nombre": "Sylvanas Brisaveloz", "raza": "Elfa de sangre (no-muerta)", "clase": "Forestal Oscura", "faccion": "Horda", "titulo": "Ex Jefa de Guerra", "estado": "DESAPARECIDA", "alineacion": "VILLANO_REDIMIDO" },
+  { "id": 4, "nombre": "Anduin Wrynn", "raza": "Humano", "clase": "Sacerdote", "faccion": "Alianza", "titulo": "Rey de Ventormenta", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 5, "nombre": "Varian Wrynn", "raza": "Humano", "clase": "Guerrero", "faccion": "Alianza", "titulo": "Rey de Ventormenta", "estado": "FALLECIDO", "alineacion": "HEROE" },
+
+  { "id": 6, "nombre": "Illidan Tempestira", "raza": "Elfo de la noche", "clase": "Cazador de demonios", "faccion": "Neutral", "titulo": "El Traidor", "estado": "VIVO", "alineacion": "VILLANO_REDIMIDO" },
+  { "id": 7, "nombre": "Malfurion Tempestira", "raza": "Elfo de la noche", "clase": "Druida", "faccion": "Alianza", "titulo": "Archidruida", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 8, "nombre": "Tyrande Susurravientos", "raza": "Elfa de la noche", "clase": "Sacerdotisa", "faccion": "Alianza", "titulo": "Suma Sacerdotisa de Elune", "estado": "VIVA", "alineacion": "HEROE" },
+  { "id": 9, "nombre": "Arthas Menethil", "raza": "Humano (no-muerto)", "clase": "Caballero de la Muerte", "faccion": "Neutral", "titulo": "Rey Exanime", "estado": "FALLECIDO", "alineacion": "VILLANO" },
+  { "id": 10, "nombre": "Uther el Iluminado", "raza": "Humano", "clase": "Paladin", "faccion": "Alianza", "titulo": "Miembro de la Mano de Plata", "estado": "FALLECIDO", "alineacion": "HEROE" },
+
+  { "id": 11, "nombre": "Genn Cringris", "raza": "Humano (Huargen)", "clase": "Guerrero", "faccion": "Alianza", "titulo": "Rey de Gilneas", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 12, "nombre": "Baine Pezuña de Sangre", "raza": "Tauren", "clase": "Guerrero", "faccion": "Horda", "titulo": "Alto Jefe de los Tauren", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 13, "nombre": "Lor'themar Theron", "raza": "Elfo de sangre", "clase": "Forestal", "faccion": "Horda", "titulo": "Lord Regente de Quel'Thalas", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 14, "nombre": "Khadgar", "raza": "Humano", "clase": "Mago", "faccion": "Neutral", "titulo": "Archimago del Kirin Tor", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 15, "nombre": "Gul'dan", "raza": "Orco", "clase": "Brujo", "faccion": "Horda", "titulo": "Fundador del Consejo de la Sombra", "estado": "FALLECIDO", "alineacion": "VILLANO" },
+
+  { "id": 16, "nombre": "Vol'jin", "raza": "Trol", "clase": "Cazador", "faccion": "Horda", "titulo": "Ex Jefe de Guerra", "estado": "FALLECIDO", "alineacion": "HEROE" },
+  { "id": 17, "nombre": "Rexxar", "raza": "Mok'nathal", "clase": "Cazador", "faccion": "Horda", "titulo": "Campeon de la Horda", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 18, "nombre": "Valeera Sanguinar", "raza": "Elfa de sangre", "clase": "Picara", "faccion": "Neutral", "titulo": "Agente de la Corona", "estado": "VIVA", "alineacion": "HEROE" },
+  { "id": 19, "nombre": "Turalyon", "raza": "Humano", "clase": "Paladin", "faccion": "Alianza", "titulo": "Alto Exarca", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 20, "nombre": "Alleria Brisaveloz", "raza": "Elfa del vacio", "clase": "Forestal", "faccion": "Alianza", "titulo": "Ranger del Vacio", "estado": "VIVA", "alineacion": "HEROE" },
+
+  { "id": 21, "nombre": "Velen", "raza": "Draenei", "clase": "Sacerdote", "faccion": "Alianza", "titulo": "Profeta de los Draenei", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 22, "nombre": "Magni Barbabronce", "raza": "Enano", "clase": "Guerrero", "faccion": "Alianza", "titulo": "Portavoz de Azeroth", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 23, "nombre": "Muradin Barbabronce", "raza": "Enano", "clase": "Guerrero", "faccion": "Alianza", "titulo": "Señor del Clan Barbabronce", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 24, "nombre": "Kael'thas Caminante del Sol", "raza": "Elfo de sangre", "clase": "Mago", "faccion": "Neutral", "titulo": "Principe de Quel'Thalas", "estado": "FALLECIDO", "alineacion": "VILLANO" },
+  { "id": 25, "nombre": "Bolvar Fordragon", "raza": "Humano", "clase": "Paladin", "faccion": "Neutral", "titulo": "Ex Rey Exanime", "estado": "VIVO", "alineacion": "ANTIHEROE" },
+
+  { "id": 26, "nombre": "Chen Cerveza de Trueno", "raza": "Pandaren", "clase": "Monje", "faccion": "Neutral", "titulo": "Maestro cervecero", "estado": "VIVO", "alineacion": "HEROE" },
+  { "id": 27, "nombre": "Garrosh Grito Infernal", "raza": "Orco", "clase": "Guerrero", "faccion": "Horda", "titulo": "Ex Jefe de Guerra", "estado": "FALLECIDO", "alineacion": "VILLANO" },
+  { "id": 28, "nombre": "Cairne Pezuña de Sangre", "raza": "Tauren", "clase": "Guerrero", "faccion": "Horda", "titulo": "Antiguo Alto Jefe", "estado": "FALLECIDO", "alineacion": "HEROE" },
+  { "id": 29, "nombre": "Moira Barbabronce", "raza": "Enana", "clase": "Sacerdotisa", "faccion": "Alianza", "titulo": "Reina Regente de Forjaz", "estado": "VIVA", "alineacion": "HEROE" },
+  { "id": 30, "nombre": "Varok Saurfang", "raza": "Orco", "clase": "Guerrero", "faccion": "Horda", "titulo": "Veterano de la Horda", "estado": "FALLECIDO", "alineacion": "HEROE" }
+]
